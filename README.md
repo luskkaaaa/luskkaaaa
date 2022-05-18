@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @luskkaaaa
 - 👀 I'm interested in study programing.
-- 🌱 I’m currently learning english and programing logic.
+- 🌱 I’m currently learning english(beginner) and programing logic.
 - 💞️ I’m looking to collaborate on onpen source.
 - 📫 How to reach me instagram @luskkaaaa
 <!---
